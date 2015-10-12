@@ -5,6 +5,11 @@
 //  Created by Guang on 10/9/15.
 //  Copyright © 2015 Flatiron School. All rights reserved.
 //
+/*
+ add method for winners. 
+ add method for wins/losses number adds up 
+ clean the code 
+ */
 
 #import "FISBlackjackViewController.h"
 
